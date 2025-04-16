@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\weetz\\source\\repos\\HesapMakinesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC44F77-C4F7-4AEF-AA8B-F27497280650}|HesapMakinesi\\HesapMakinesi.csproj|c:\\users\\weetz\\source\\repos\\hesapmakinesi\\hesapmakinesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EC44F77-C4F7-4AEF-AA8B-F27497280650}|HesapMakinesi\\HesapMakinesi.csproj|solutionrelative:hesapmakinesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\weetz\\Desktop\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\weetz\\source\\repos\\HesapMakinesi\\HesapMakinesi\\Form1.cs",
+              "RelativeDocumentMoniker": "HesapMakinesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\weetz\\source\\repos\\HesapMakinesi\\HesapMakinesi\\Form1.cs [Design]",
+              "RelativeToolTip": "HesapMakinesi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:55:18.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\weetz\\Desktop\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Form1.resx",
+              "ToolTip": "C:\\Users\\weetz\\Desktop\\Form1.resx",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-29T20:31:20.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

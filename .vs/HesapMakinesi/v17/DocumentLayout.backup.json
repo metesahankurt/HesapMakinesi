@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\weetz\\source\\repos\\HesapMakinesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC44F77-C4F7-4AEF-AA8B-F27497280650}|HesapMakinesi\\HesapMakinesi.csproj|c:\\users\\weetz\\desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC44F77-C4F7-4AEF-AA8B-F27497280650}|HesapMakinesi\\HesapMakinesi.csproj|c:\\users\\weetz\\desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC44F77-C4F7-4AEF-AA8B-F27497280650}|HesapMakinesi\\HesapMakinesi.csproj|c:\\users\\weetz\\desktop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC44F77-C4F7-4AEF-AA8B-F27497280650}|HesapMakinesi\\HesapMakinesi.csproj|c:\\users\\weetz\\desktop\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\weetz\\Desktop\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Form1.resx",
+              "ToolTip": "C:\\Users\\weetz\\Desktop\\Form1.resx",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-29T20:31:20.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\weetz\\Desktop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\weetz\\Desktop\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:21:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\weetz\\Desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\weetz\\Desktop\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Form1.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAnwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:13:18.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\weetz\\Desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\weetz\\Desktop\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:16:33.06Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
